@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, This is Akshar Saxena</h1>
 <h3 align="center">Navigating the Code: A Web Developer's Journey from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="100%" src="https://gifdb.com/images/high/retro-pixel-landscape-background-0g0dpo6tlg0pbmfp.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshar-Saxena" alt="akshar-saxena" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshar-Saxena" alt="akshar-saxena" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portdevakshar.onrender.com/](https://portdevakshar.onrender.com/)
 
