@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Akshar Saxena</h1>
 <h3 align="center">Navigating the Code: A Web Developer's Journey from India</h3>
-<img align="center" alt="Coding" width="100%" margin="10px 0" src="https://64.media.tumblr.com/0f0a06d1340978a7811193b6cdd9541d/tumblr_o3smbcmtOH1v3nwxso1_540.gif">
+<img align="center" alt="Coding" width="100%" margin="10px 0" src="https://giphy.com/gifs/80s-synthwave-aesthetic-5e25aUTZPcI94uMZgv?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshar-Saxena" alt="akshar-saxena" /></a> </p>
 
