@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, This is Akshar Saxena</h1>
 <h3 align="center">Navigating the Code: A Web Developer's Journey from India</h3>
 <img align="center" alt="Coding" width="100%" margin="10px 0" src="https://media3.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.webp?cid=6c09b9528r83q3s4ln8cxu7d2eno7lvawql9r15o2hlsw4y9&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
-# 💫 About Me:
-🔭 I’m currently working on React Development<br>👯 I’m looking to collaborate on Web Development<br>💬 Ask me about App Development, Web Development, Competitive Programming <br>
+<h1>💫 About Me: </h1><br/>
+Hi, I'm Akshar Saxena — a passionate Full Stack Developer and problem-solver who loves turning ideas into real-world solutions. I'm always exploring new technologies, building impactful projects, and continuously learning to grow as a developer. Whether it's frontend, backend, or designing systems from scratch, I enjoy the entire development journey. Let's build something amazing together!
 
 
 ## 🌐 Socials:
